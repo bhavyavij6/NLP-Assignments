@@ -12,6 +12,4 @@ These assignments cover various topics and techniques in Natural Language Proces
 
 I plan to recreate the Jupyter notebooks from these PDFs to enable executable code and further experimentation.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
